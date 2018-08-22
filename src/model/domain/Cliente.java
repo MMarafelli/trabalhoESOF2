@@ -1,3 +1,4 @@
+package model.domain;
 
 public class Cliente {
 
@@ -6,6 +7,7 @@ public class Cliente {
 
 		String nome;
 		String id;
+		Double salario;
 	}
 
 }
